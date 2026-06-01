@@ -68,36 +68,7 @@ Four structured tables:
 ### Testing
 - Unit tests for key transformation functions (text cleaning, SEO scoring, engagement calculation)
 - Integration test validating end-to-end pipeline: API acquisition → preprocessing → SQLite storage
-
----
-
-## Repository Structure
-
-```
-programming-for-data-analysis-ca02/
-│
-├── CA02_YouTube_Pipeline.ipynb        # Main Colab notebook (full pipeline)
-├── requirements.txt                   # Python dependencies
-├── README.md                          # Project documentation
-│
-└── youtube_pipeline/
-    ├── src/
-    │   ├── acquisition/
-    │   │   ├── youtube_client.py      # YouTube Data API v3 client
-    │   │   └── scraper.py             # BeautifulSoup About page scraper
-    │   ├── preprocessing/
-    │   │   └── text_cleaner.py        # NLP text cleaning functions
-    │   ├── features/
-    │   │   ├── seo.py                 # SEO scoring functions
-    │   │   ├── engagement.py          # Engagement metric computation
-    │   │   └── tfidf_cluster.py       # TF-IDF + KMeans clustering
-    │   └── storage/
-    │       └── db.py                  # SQLite schema and insert logic
-    └── tests/
-        ├── test_units.py              # Unit tests
-        └── test_integration.py        # Integration test
-```
-
+  
 ---
 
 ## Tech Stack
