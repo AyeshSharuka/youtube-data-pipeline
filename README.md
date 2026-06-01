@@ -197,5 +197,3 @@ MSc Artificial Intelligence - Dublin Business School
 ## 📄 License
 
 This project is submitted for academic assessment at Dublin Business School.
-All rights reserved © Ayesh Sharuka 2025
-
