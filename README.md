@@ -1,13 +1,6 @@
 # YouTube Channel Analytics Pipeline
 
 > MSc Artificial Intelligence - Programming for Data Analysis (B9AI001 · CA02) | Dublin Business School
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightblue?style=flat&logo=sqlite&logoColor=white)
-![YouTube API](https://img.shields.io/badge/API-YouTube%20Data%20v3-red?style=flat&logo=youtube&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20TF--IDF-green?style=flat)
-![Colab](https://img.shields.io/badge/Environment-Google%20Colab-orange?style=flat&logo=googlecolab&logoColor=white)
-
 ---
 
 ## Project Overview
